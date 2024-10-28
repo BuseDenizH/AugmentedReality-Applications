@@ -1,0 +1,8 @@
+E:/myUnityWork/ARHomework1/.utmp/RelWithDebInfo/4t6v5930/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/myUnityWork/ARHomework1/.utmp/RelWithDebInfo/4t6v5930/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+E:/myUnityWork/ARHomework1/.utmp/RelWithDebInfo/4t6v5930/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+E:/myUnityWork/ARHomework1/.utmp/RelWithDebInfo/4t6v5930/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+E:/myUnityWork/ARHomework1/.utmp/RelWithDebInfo/4t6v5930/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir
+E:/myUnityWork/ARHomework1/.utmp/RelWithDebInfo/4t6v5930/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+E:/myUnityWork/ARHomework1/.utmp/RelWithDebInfo/4t6v5930/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+E:/myUnityWork/ARHomework1/.utmp/RelWithDebInfo/4t6v5930/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
