@@ -70,3 +70,14 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Vuforia
+# Ignore Vuforia SDK files to avoid large file sizes
+[Vv]uforia/
+
+# Ignore any Vuforia-related files in Assets, Packages, or Plugins
+[Aa]ssets/Vuforia/
+[Pp]ackages/Vuforia/
+[Pp]lugins/Vuforia/
+
+
